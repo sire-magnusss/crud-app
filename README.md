@@ -54,7 +54,7 @@ Make sure you have the following installed on your machine:
 ### Cloning the Repository
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/crud-app.git
+   git clone https://github.com/sire-magnusss/crud-app.git
    cd crud-app
 
 ### Installing Dependencies
